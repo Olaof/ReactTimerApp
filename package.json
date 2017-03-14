@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "Jean-Marc Desiront",
-  "license": "MIT",
+  "license": "Ulg",
   "dependencies": {
     "axios": "^0.15.3",
     "express": "^4.14.0",
