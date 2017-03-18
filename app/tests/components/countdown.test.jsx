@@ -32,7 +32,7 @@ describe('handleSetCountdown', () => {
       setTimeout(() => {
         expect(countdown.state.count).toBe(0);
         done();
-      }, 3001);
+      }, 1001);
     });
 
     it('should pause countdown on pause status', (done) => {
